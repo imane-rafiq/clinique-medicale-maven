@@ -1,0 +1,1 @@
+target/ .idea/ *.iml initgit add .git commit -m "Initial commit"git branch -M maingit remote add origin https://github.com/YOUR_USERNAME/clinique-medicale-maven.gitgit push -u origin main
